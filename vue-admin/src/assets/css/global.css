@@ -1,0 +1,6 @@
+#app,.LayoutBox,.el-container,body,html{height:100%;margin:0;padding:0}
+.bgLogin .el-input__inner{opacity:.4}
+.bgLogin .el-form-item__content{margin-left:0!important}
+.bgLogin .loginBtn{text-align:center}
+.header .el-card__body{padding:0 20px;text-align:align}
+.LayoutBox .el-aside{width:200px}
